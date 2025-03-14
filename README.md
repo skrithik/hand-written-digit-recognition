@@ -54,6 +54,6 @@ The MNIST dataset, comprising 70,000 images of handwritten digits, was used. For
 ---
 
 ### 🧠 Made with ❤️ for digit enthusiasts!
-```
+the test.csv file has also been provided to test the model
 
 
