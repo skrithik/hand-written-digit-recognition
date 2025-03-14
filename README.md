@@ -1,6 +1,6 @@
 Below is a complete `README.md` file you can use for your GitHub repository:
 
-```markdown
+
 # 🧠 MNIST Neural Network Experimentation
 
 This repository contains a **Handwritten Digit Recognition** project built using **Python, TensorFlow, and Pandas**. The project demonstrates training multiple neural network models on the MNIST dataset with different dataset sizes and regularization techniques.
