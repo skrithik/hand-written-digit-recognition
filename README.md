@@ -19,24 +19,6 @@ This repository contains a **Handwritten Digit Recognition** project built using
 ## 📂 Dataset
 The MNIST dataset, comprising 70,000 images of handwritten digits, was used. For experimentation, subsets of **12,000** and **20,000** entries were extracted to assess the impact of dataset size and regularization on model performance.
 
-## 🛠️ Installation & Setup
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your-username/mnist-neural-network.git
-   cd mnist-neural-network
-   ```
-2. **Create a virtual environment (optional but recommended)**:
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On macOS/Linux
-   venv\Scripts\activate     # On Windows
-   ```
-3. **Install dependencies**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## 📌 Process Overview
 
 1. **Loaded Dependencies**:
