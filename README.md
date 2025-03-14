@@ -17,16 +17,7 @@ The MNIST dataset, comprising 70,000 images of handwritten digits, was used. For
 
 ## 📌 Process Overview
 
-1. **Loaded Dependencies**:
-   ```python
-   import numpy as np
-   import tensorflow as tf
-   from tensorflow.keras.models import Sequential
-   from tensorflow.keras.layers import Dense
-   from tensorflow.keras.activations import linear, relu, sigmoid
-   import matplotlib.pyplot as plt
-   import pandas as pd
-   ```
+1. **Load the Dependencies**
 2. **Data Loading & Preprocessing**:
    - Loaded the MNIST dataset.
    - Handled missing values and removed duplicates to ensure data quality.
