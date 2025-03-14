@@ -6,11 +6,7 @@ Below is a complete `README.md` file you can use for your GitHub repository:
 This repository contains a **Handwritten Digit Recognition** project built using **Python, TensorFlow, and Pandas**. The project demonstrates training multiple neural network models on the MNIST dataset with different dataset sizes and regularization techniques.
 
 ## 🚀 Features
-- Trains **4 different models**:
-  - **Model 1:** Trained on a dataset with **12,000 entries** (without regularization).
-  - **Model 2:** Trained on a dataset with **20,000 entries** (without regularization).
-  - **Model 3:** Trained on a dataset with **12,000 entries** (with regularization).
-  - **Model 4:** Trained on a dataset with **20,000 entries** (with regularization).
+- **trained a neural net model with 3 hidden layers and an output layer**
 - **Data preprocessing** including handling missing values and duplicates.
 - Comprehensive evaluation using **training and cross-validation** data.
 - Analysis and discussion on **overfitting issues**.
