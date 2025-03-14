@@ -56,4 +56,4 @@ The MNIST dataset, comprising 70,000 images of handwritten digits, was used. For
 ### 🧠 Made with ❤️ for digit enthusiasts!
 ```
 
-Simply save the content above as `README.md` in your repository to provide a comprehensive overview of your MNIST neural network experimentation process.
+
